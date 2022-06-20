@@ -1,0 +1,14 @@
+﻿  Catalog.cpp
+C:\Users\Admin\Desktop\Catalog\Catalog\Catalog.cpp(37,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Catalog\Catalog\Catalog.cpp(36): message : while compiling class template member function 'IteratorCatalog<T> Catalog<T>::end(void) noexcept'
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Desktop\Catalog\Catalog\Catalog.cpp(90): message : see reference to function template instantiation 'IteratorCatalog<T> Catalog<T>::end(void) noexcept' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Desktop\Catalog\Catalog\Catalog.cpp(86): message : see reference to class template instantiation 'Catalog<int>' being compiled
+  Catalog.vcxproj -> C:\Users\Admin\Desktop\Catalog\Catalog\x64\Debug\Catalog.exe
