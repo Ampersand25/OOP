@@ -1,0 +1,14 @@
+﻿  Geanta.cpp
+C:\Users\Admin\Desktop\Geanta\Geanta\Geanta.cpp(38,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Geanta\Geanta\Geanta.cpp(37): message : while compiling class template member function 'IteratorGeanta<T> Geanta<T>::end(void) noexcept'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Admin\Desktop\Geanta\Geanta\Geanta.cpp(89): message : see reference to function template instantiation 'IteratorGeanta<T> Geanta<T>::end(void) noexcept' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Admin\Desktop\Geanta\Geanta\Geanta.cpp(86): message : see reference to class template instantiation 'Geanta<std::string>' being compiled
+  Geanta.vcxproj -> C:\Users\Admin\Desktop\Geanta\Geanta\x64\Debug\Geanta.exe
